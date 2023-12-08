@@ -1,0 +1,61 @@
+test,platform,category,mean
+Just Dart, Android, Original, 1.43
+MethodChannel, Android, Original, 478.82
+BasicMessageChannel, Android, Original, 608.58
+Binary BasicMessageChannel, Android, Original, 562.29
+Pigeon, Android, Original, 984.56
+Just Dart, iOS, Original, 0.46
+MethodChannel, iOS, Original, 91.25
+BasicMessageChannel, iOS, Original, 79.23
+Binary BasicMessageChannel, iOS, Original, 88.89
+Pigeon, iOS, Original, 82.6
+Just Dart, Android, eigene Testgeräte, 2.81
+MethodChannel, Android, eigene Testgeräte, 852.45
+BasicMessageChannel, Android, eigene Testgeräte, 838.54
+Binary BasicMessageChannel, Android, eigene Testgeräte, 704.46
+Pigeon, Android, eigene Testgeräte, 905.29
+Just Dart, iOS, eigene Testgeräte, 0.41
+MethodChannel, iOS, eigene Testgeräte, 92.36
+BasicMessageChannel, iOS, eigene Testgeräte, 90.55
+Binary BasicMessageChannel, iOS, eigene Testgeräte, 156.93
+Pigeon, iOS, eigene Testgeräte, 106.04
+Just Dart, Android, aktuelle Testgeräte, 0.90
+MethodChannel, Android, aktuelle Testgeräte, 97.43
+BasicMessageChannel, Android, aktuelle Testgeräte, 129.44
+Binary BasicMessageChannel, Android, aktuelle Testgeräte, 96.88
+Pigeon, Android, aktuelle Testgeräte, 150.07
+Just Dart, iOS, aktuelle Testgeräte, 0.17
+MethodChannel, iOS, aktuelle Testgeräte, 32.21
+BasicMessageChannel, iOS, aktuelle Testgeräte, 30.26
+Binary BasicMessageChannel, iOS, aktuelle Testgeräte, 32.64
+Pigeon, iOS, aktuelle Testgeräte, 31.13
+Just Dart, Android, Update von Flutter, 0.23
+MethodChannel, Android, Update von Flutter, 84.35
+BasicMessageChannel, Android, Update von Flutter, 77.41
+Binary BasicMessageChannel, Android, Update von Flutter, 69.03
+Pigeon, Android, Update von Flutter, 71.36
+Just Dart, iOS, Update von Flutter, 0.18
+MethodChannel, iOS, Update von Flutter, 29.96
+BasicMessageChannel, iOS, Update von Flutter, 29.41
+Binary BasicMessageChannel, iOS, Update von Flutter, 34.87
+Pigeon, iOS, Update von Flutter, 30.54
+Just Dart, Android, eigene Messung, 0.54
+MethodChannel, Android, eigene Messung, 84.08
+BasicMessageChannel, Android, eigene Messung, 49.91
+Binary BasicMessageChannel, Android, eigene Messung, 51.27
+Pigeon, Android, eigene Messung, 49.81
+Just Dart, iOS, eigene Messung, 0.34
+MethodChannel, iOS, eigene Messung, 30.12
+BasicMessageChannel, iOS, eigene Messung, 28.71
+Binary BasicMessageChannel, iOS, eigene Messung, 45.89
+Pigeon, iOS, eigene Messung, 29.08
+Just Dart, Android, Entfernung Ausreißer, 0.512
+MethodChannel, Android, Entfernung Ausreißer, 83.401
+BasicMessageChannel, Android, Entfernung Ausreißer, 48.542
+Binary BasicMessageChannel, Android, Entfernung Ausreißer, 50.426
+Pigeon, Android, Entfernung Ausreißer, 47.713
+Just Dart, iOS, Entfernung Ausreißer, 0.313
+MethodChannel, iOS, Entfernung Ausreißer, 30.013
+BasicMessageChannel, iOS, Entfernung Ausreißer, 28.705
+Binary BasicMessageChannel, iOS, Entfernung Ausreißer, 45.649
+Pigeon, iOS, Entfernung Ausreißer, 28.941
